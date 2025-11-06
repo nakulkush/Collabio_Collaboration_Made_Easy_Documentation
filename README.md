@@ -1,6 +1,8 @@
 # Collabio: Collaboration Made Easy
 
 Collabio is a browser-based virtual collaboration platform designed to recreate natural, human-like interactions in online meetings. It provides a 2D interactive workspace where users navigate as avatars, hold proximity-based video calls, collaborate on a synchronized whiteboard, and communicate through a global chat system. The platform focuses on making remote teamwork engaging, simple, and intuitive while maintaining a professional experience.
+(Code of the above project could not be made available as it is under official processes) 
+
 
 ---
 
